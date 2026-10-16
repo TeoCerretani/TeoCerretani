@@ -27,8 +27,9 @@ I'm a Master's student in **Artificial Intelligence and Machine Learning** with 
 Here are some of the projects I've been working on:
 
 - [ChurnPredict](https://github.com/TeoCerretani/ChurnPredict)
-- [siwBooks](https://github.com/TeoCerretani/siwBooks)
-- [Siw-jpa](https://github.com/TeoCerretani/Siw-jpa)
+- [SiwBooks](https://github.com/TeoCerretani/Siw_Books)
+- [Aisthesis](https://github.com/TeoCerretani/Aisthesis)
+- [FinAgent](https://github.com/TeoCerretani/FinAgent)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tuo-profilo)
